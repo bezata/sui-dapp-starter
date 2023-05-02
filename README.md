@@ -1,4 +1,8 @@
 
+For my npm package :
+'''bash
+npm i sui-dapp-starter
+'''
 # Getting Started
 
 First, install dependencies with:
