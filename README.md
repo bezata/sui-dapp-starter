@@ -16,7 +16,8 @@ yarn dev
 - For creating dex I used OMNISWAP SDK u can reach on there => https://github.com/OmniBTC/OmniSwap-Sui-SDK
 - Also if you want to deploy your MOVE Contract on testnet u should reach there for docs => https://docs.sui.io/build/install
 
-# All integrated if you need testnet tokens go SUI's discord for Testnet faucet => https://docs.sui.io/build/faucet
+# All integrated 
+- if you need testnet tokens go SUI's discord for Testnet faucet => https://docs.sui.io/build/faucet
 
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
