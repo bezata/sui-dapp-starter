@@ -9,7 +9,7 @@ and start the enviroment with
 yarn dev
 ```
 ## Instructions
-# I used these SDK's for start ;
+# I used these SDK's for start :
 - For wallet which provided at the index.tsx and walletprovider integrated on app.tsx SUIET KIT  Docs=> https://kit.suiet.app/docs/QuickStart
 - Move files backend part also settled. You can reach its docs for Smart Contract development => https://docs.sui.io/learn
 - Actually SUI have own Typescript SDK but I want to use @scallops SDK to integrate it to frontend but I'm gonna provide 2 of them scallops => https://github.com/scallop-io/sui-kit SUI's => https://github.com/MystenLabs/sui/tree/main/sdk/typescript
