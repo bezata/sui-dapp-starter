@@ -1,3 +1,7 @@
+For only packages
+```bash
+npm i sui-web3-starter
+```
 # Getting Started
 
 First, install dependencies with:
