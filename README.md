@@ -1,4 +1,4 @@
-For only packages
+For only package.json dependencies
 ```bash
 npm i sui-web3-starter
 ```
